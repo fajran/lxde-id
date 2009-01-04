@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-06 06:14+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Fajran Iman Rusadi <fajran@ubuntu.com>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/lxshortcut.c:49
+msgid "input file"
+msgstr "berkas masukan"
+
+#: src/lxshortcut.c:49
+msgid "file name or desktop id"
+msgstr "nama berkas atau id desktop"
+
+#: src/lxshortcut.c:50
+msgid "file name"
+msgstr "nama berkas"
+
+#: src/lxshortcut.c:147 data/choose-icon.glade:114
+msgid "Image files"
+msgstr "Berkas gambar"
+
+#: src/lxshortcut.c:229
+msgid "Choose an executable file"
+msgstr "Pilih sebuah berkas executable"
+
+#: src/lxshortcut.c:235
+msgid "Executable files"
+msgstr "Berkas Executable"
+
+#: data/lxshortcut.glade:5
+msgid "Application Shortcut"
+msgstr "Shortcut Aplikasi"
+
+#: data/lxshortcut.glade:42
+msgid "Change _Icon"
+msgstr "Ubah _Ikon"
+
+#: data/lxshortcut.glade:79
+msgid "Tooltip:"
+msgstr "Tooltip:"
+
+#: data/lxshortcut.glade:92
+msgid "Runs in terminal emulator"
+msgstr "Jalankan dalam emulator terminal"
+
+#: data/lxshortcut.glade:107
+msgid "Name:"
+msgstr "Nama:"
+
+#: data/lxshortcut.glade:130
+msgid "Command:"
+msgstr "Perintah:"
+
+#: data/lxshortcut.glade:155
+msgid "_Browse..."
+msgstr "Telusuri..."
+
+#: data/lxshortcut.glade:181
+msgid "General"
+msgstr "Umum"
+
+#: data/lxshortcut.glade:205
+msgid "Use startup notification"
+msgstr ""
+
+#: data/lxshortcut.glade:223
+msgid "Advanced"
+msgstr "Lanjutan"
+
+#: data/choose-icon.glade:8
+msgid "Choose An Icon..."
+msgstr "Pilih Sebuah Ikon..."
+
+#: data/choose-icon.glade:95
+msgid "System icon theme"
+msgstr "Tema ikon sistem"
+
+#: data/choose-icon.glade:137
+msgid "<b>Choose Icon From:</b>"
+msgstr "<b>Pilih Ikon Dari:</b>"
