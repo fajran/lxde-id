@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-10 23:25+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Fajran Iman Rusadi <fajran@ubuntu.com>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/gpicview.c:36
+msgid "[FILE]"
+msgstr "[BERKAS]"
+
+#: src/main-win.c:137
+msgid "Image Viewer"
+msgstr "Penampil Gambar"
+
+#: src/main-win.c:220 src/main-win.c:1116
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: src/main-win.c:221 src/main-win.c:1117
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: src/main-win.c:225 src/main-win.c:1119
+msgid "Zoom Out"
+msgstr "Perkecil"
+
+#: src/main-win.c:226 src/main-win.c:1120
+msgid "Zoom In"
+msgstr "Perbesar"
+
+#. percent = gtk_entry_new();    // show scale (in percentage)
+#. g_signal_connect( percent, "activate", G_CALLBACK(on_percentage), mw );
+#. gtk_widget_set_size_request( percent, 45, -1 );
+#. gtk_box_pack_start( (GtkBox*)nav_bar, percent, FALSE, FALSE, 2 );
+#: src/main-win.c:233 src/main-win.c:1121
+msgid "Fit Image To Window Size"
+msgstr "Paskan Ukuran Gambar dengan Ukuran Jendela"
+
+#: src/main-win.c:235 src/main-win.c:1122
+msgid "Original Size"
+msgstr "Ukuran Asli"
+
+#: src/main-win.c:242
+msgid " Full Screen"
+msgstr " Layar Penuh"
+
+#: src/main-win.c:246 src/main-win.c:1126
+msgid "Rotate Counterclockwise"
+msgstr "Putar Berlawanan Arah Jarum Jam"
+
+#: src/main-win.c:248 src/main-win.c:1127
+msgid "Rotate Clockwise"
+msgstr "Putar Searah Jarum Jam"
+
+#: src/main-win.c:252 src/main-win.c:1129
+msgid "Open File"
+msgstr "Buka Berkas"
+
+#: src/main-win.c:253 src/main-win.c:1130
+msgid "Save File"
+msgstr "Simpan Berkas"
+
+#: src/main-win.c:254
+msgid "Save File As"
+msgstr "Simpan Berkas Dengan Nama Baru"
+
+#: src/main-win.c:255 src/main-win.c:1132
+msgid "Delete File"
+msgstr "Hapus Berkas"
+
+#: src/main-win.c:258 src/pref.c:100
+msgid "Preferences"
+msgstr "Pengaturan"
+
+#: src/main-win.c:741
+msgid "All Supported Images"
+msgstr "Semua Gambar yang Didukung"
+
+#: src/main-win.c:746
+msgid "All Files"
+msgstr "Semua Berkas"
+
+#: src/main-win.c:1069
+msgid ""
+"The file name you selected already exist.\n"
+"Do you want to overwrite existing file?\n"
+"(Warning: The quality of original image might be lost)"
+msgstr ""
+"Nama berkas yang Anda pilih sudah terpakai.\n"
+"Apakah Anda ingin menimpa berkas yang ada?\n"
+"(Peringatan: Kualitas gambar asli mungkin hilang)"
+
+#: src/main-win.c:1098
+msgid ""
+"Are you sure you want to delete current file?\n"
+"\n"
+"Warning: Once deleted, the file cannot be recovered."
+msgstr ""
+"Yakin untuk menghapus berkas ini?\n"
+"\n"
+"Peringatan: Sekali terhapus, berkas tidak dapat dikembalikan."
+
+#: src/main-win.c:1124
+msgid "Full Screen"
+msgstr "Layar Penuh"
+
+#: src/main-win.c:1131
+msgid "Save As"
+msgstr "Simpan Sebagai Nama Baru"
+
+#: src/main-win.c:1174
+msgid " * Refer to source code of EOG image viewer and GThumb"
+msgstr " * Merujuk ke kode sumber dari penampil gambar EOG dan GThumb"
+
+#. TRANSLATORS: Replace mw string with your names, one name per line.
+#: src/main-win.c:1178
+msgid "translator-credits"
+msgstr "Fajran Iman Rusadi <fajran@ubuntu.com>"
+
+#: src/main-win.c:1186
+msgid "GPicView"
+msgstr "GPicView"
+
+#: src/main-win.c:1188
+msgid "Copyright (C) 2007"
+msgstr "Hak Cipta (C) 2007"
+
+#: src/main-win.c:1189
+msgid "Lightweight image viewer from LXDE project"
+msgstr "Penampil gambar ringan dari proyek LXDE"
+
+#: src/pref.c:86
+msgid ""
+"GPicView will become the default viewer for all supported image files on "
+"your system.\n"
+"(This will be done through 'xdg-mime' program)\n"
+"\n"
+"<b>Are you sure you really want to do this?</b>"
+msgstr ""
+"GPicView akan menjadi penampil gambar default untuk seluruh berkas gambar "
+"yang didukung yang ada dalam sistem Anda.\n"
+"(Ini akan dilakukan melalui aplikasi 'xdg-mime)\n"
+"\n"
+"<b>Yakin untuk melakukan hal ini?</b>"
+
+#: src/pref.c:103
+msgid "Ask before saving  images"
+msgstr "Konfirmasi sebelum menyimpan gambar"
+
+#: src/pref.c:107
+msgid "Automatically save rotated images ( Currently only JPEG is supported )"
+msgstr "Otomatis simpan gambar yang diputar ( Hanya JPEG yang didukung pada saat ini )"
+
+#: src/pref.c:111
+msgid "Make GPicview the default viewer for images"
+msgstr "Jadikan GPicview sebagai penampil gambar default"
