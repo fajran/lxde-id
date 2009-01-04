@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-02 16:52+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Fajran Iman Rusadi <fajran@ubuntu.com>\n"
+"Language-Team: Indonesian <id@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/lxsession-edit.c:360
+msgid "Enabled"
+msgstr "Aktif"
+
+#: src/lxsession-edit.c:365
+msgid "Application"
+msgstr "Aplikasi"
+
+#: src/lxsession-edit.c:373
+msgid "Comment"
+msgstr "Komentar"
+
+#: data/lxsession-edit.glade:9
+msgid "Desktop Session Settings"
+msgstr ""
+
+#: data/lxsession-edit.glade:97
+msgid "Applications automaticlly started after entering desktop:"
+msgstr ""
+
+#: data/lxsession-edit.glade:214
+msgid "Automatically Started Applications"
+msgstr ""
+
+#: data/lxsession-edit.glade:250
+msgid "Window Manager: "
+msgstr ""
+
+#: data/lxsession-edit.glade:275
+msgid ""
+"Command line used to launch window manager\n"
+"(The default window manager command for LXDE should be openbox-lxde)"
+msgstr ""
+
+#: data/lxsession-edit.glade:326
+msgid ""
+"<b>Warning:</b> Do <b>NOT</b> touch this unless you know exactly what you "
+"are doing.\n"
+"\n"
+"<b>NOTE:</b> This setting will take effect on next login."
+msgstr ""
+"<b>Peringatan:</b> <b>JANGAN</b> sentuh ini kecuali Anda tahu apa "
+"yang sedang Anda lakukan.\n"
+"\n"
+"<b>CATATAN:</b> Pengaturan ini akan diterapkan pada login berikutnya."
+
+#: data/lxsession-edit.glade:366
+msgid "Advanced Options"
+msgstr "Pengaturan Lanjutan"
